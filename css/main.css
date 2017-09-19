@@ -1,0 +1,40 @@
+/* * {
+  box-sizing: border-box;
+  background: black;
+  text-align: center;
+  color: #110F0F
+}
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.card {
+  float: left;
+  margin: 10px;
+  height: 80px;
+  width: 80px;
+  background: white;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.card:hover {
+  cursor: pointer;
+}
+
+.card p {
+  font-size: 48px;
+}
+
+.fa{
+  color: red;
+} */
+
+#tablerito td{
+width: 40px;
+height: 40px;
+padding: 5px;
+border: 2px solid black; 
+}

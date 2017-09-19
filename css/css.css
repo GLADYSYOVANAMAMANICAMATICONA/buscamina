@@ -1,0 +1,8 @@
+.boton_abrir{
+  background: red;
+  width: 350px;
+  height: 350px;
+}
+.img{
+  z-index: 1000;
+}
